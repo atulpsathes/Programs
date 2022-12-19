@@ -1,3 +1,4 @@
+// Define Object
 let person = {
     name: 'Atul',
     age: 30
