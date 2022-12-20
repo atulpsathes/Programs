@@ -10,3 +10,4 @@ for (let i=0; i<fruitlength; i++)
 }
 text += "</ul>"
 document.getElementById("demo").innerHTML = text;
+
